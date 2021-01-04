@@ -1,4 +1,4 @@
-# Team-and-Project-Management
+# Project and Team Management
 This is a simplified management system for a company to handle the working teams, employees and project assignments.
 The company forms teams to work for projects.
 Each team has a leader when it is formed. 
